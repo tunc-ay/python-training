@@ -1,4 +1,4 @@
-# Try - except blog not to blow the code.
+# Try - except block not to blow the code.
 #example1
 try1 = "Hello bob"
 try: 
