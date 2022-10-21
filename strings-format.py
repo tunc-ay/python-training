@@ -1,0 +1,5 @@
+myName = input("Enter your first name: ")
+mySurname = input("Enter your surname: ")
+myAge = input("Enter your age: ")
+print("My name is {} {}. My age is {}.".format(myName, mySurname, myAge))
+print(f"My name is {myName} {mySurname}, and my age is {myAge}")
