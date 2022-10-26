@@ -1,2 +1,2 @@
 *.pdf
-python\playground
+python\playground\
