@@ -15,6 +15,7 @@ x = names.index("Obiwan")
 
 # Q5 > whether Anakin is a member of the list
 x = names.index("Anakin")
+x = "Anakin" in names
 
 # Q6 > reverse the list
 names.reverse()
