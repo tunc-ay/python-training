@@ -14,7 +14,7 @@ if y % 2 == 1:
     print("Your number is odd")
 else: print("Your number is not odd.")
 
-#q3 > check whether the number provided is positive and odd.
+#q3 > check username and password
 x = input("Enter your username: ")
 y = input("Enter your password: ")
 if (x == "info@obiwankenobi.com" and y == "123456"):
@@ -48,9 +48,3 @@ elif calculateObesity >= 18.5 and calculateObesity <= 24.9: print("Your are norm
 elif calculateObesity >= 25.0 and calculateObesity <= 29.9: print("You are overweight!")
 elif calculateObesity >= 30.0 and calculateObesity <= 34.9: print("You are obese!")
 else: print("You are out of range!")
- 
-
-
-
-
-
