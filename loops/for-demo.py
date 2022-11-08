@@ -6,7 +6,8 @@ for i in numbers:
 
 # q2 > Which numbers in the set are a multiple of 5?
 for i in numbers:
-    print(i%5==0)
+    if (i%5==0):
+        print(i)
 
 # q3 > find out the total
 
