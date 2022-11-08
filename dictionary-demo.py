@@ -41,5 +41,4 @@ product = {
 
 prodId = input("Enter an id: ")
 prod = product[prodId]
-
 print(prod)
